@@ -596,7 +596,7 @@
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="82"/>
         <source>Manage Skins</source>
-        <translation>مدیریت اسکین‌ها</translation>
+        <translation>مدیریت پوسته ها</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="87"/>
@@ -6518,7 +6518,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="284"/>
         <source>&amp;Undo Last Instance Deletion</source>
-        <translation>کپی خذف شده قبلی را بازگردان</translation>
+        <translation>کپی حذف شده قبلی را بازگردان</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="693"/>
